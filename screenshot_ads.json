@@ -12,6 +12,12 @@
       "image": "https://sslwireless.com/banners/citybank_offer.png",
       "url": "https://citybank.com/offer",
       "fixed": false
+    },
+    {
+      "title": "🎉 Use DBBL NexusPay & Get 15% Off",
+      "image": "https://sslwireless.com/banners/dbbl_offer.png",
+      "url": "https://dbbl.com/offers",
+      "fixed": false
     }
   ]
 }
