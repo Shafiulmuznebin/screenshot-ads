@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "ads": [
+    {
+      "title": "🎁 Get 10% Cashback on PGW",
+      "image": "https://sslwireless.com/banners/pgw_offer.png",
+      "url": "https://sslwireless.com/promo/cashback",
+      "fixed": true
+    },
+    {
+      "title": "💳 Use City Bank Card for 5% Off",
+      "image": "https://sslwireless.com/banners/citybank_offer.png",
+      "url": "https://citybank.com/offer",
+      "fixed": false
+    }
+  ]
+}
