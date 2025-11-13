@@ -3,7 +3,7 @@
   "ads": [
     {
       "title": "🎁 Get 10% Cashback on PGW",
-      "url": "https://sslwireless.com/promo/cashback",
+      "url": "https://citybank.com/offer",
       "fixed": true
     },
     {
@@ -13,8 +13,9 @@
     },
     {
       "title": "🛒 Save Big This Week with bKash Payment",
-      "url": "https://sslwireless.com/offers/bkash",
+      "url": "https://citybank.com/offer/bkash",
       "fixed": false
     }
   ]
 }
+
